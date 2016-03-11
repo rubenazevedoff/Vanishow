@@ -14,5 +14,5 @@
 }
 
 .vanishow img {
-	display: block;
+	display: inline-block;
 }
